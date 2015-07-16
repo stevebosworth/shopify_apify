@@ -1,0 +1,548 @@
+
+
+{
+  "product": {
+    "available": true,
+    "collections": [
+
+        {
+          "description": "",
+          "handle": "test-2",
+          "id": "30393119",
+          "image": "",
+          "imageSrc": "",
+          "products": [
+
+              {
+                "available": true,
+                "compareAtPriceMax": "0",
+                "compareAtPriceMin": "0",
+                "compareAtPriceVaries": "false",
+                "content": "&lt;p&gt;Donec eu augue felis. Etiam libero nunc, euismod ultricies consequat at, elementum eget erat. Ha! Ha! Ha!&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Donec sapien erat, lacinia ac porta in, tincidunt nec magna. Praesent vel est massa. Sed eu aliquet ante. Phasellus vel nibh sit amet ante porttitor rhoncus. Mauris felis sem, tincidunt vel faucibus in, mollis vitae ligula. Duis et quam quis sem bibendum lobortis sit amet et lectus. Pellentesque ut nunc elit&lt;/p&gt;",
+                "description": "&lt;p&gt;Donec eu augue felis. Etiam libero nunc, euismod ultricies consequat at, elementum eget erat. Ha! Ha! Ha!&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Donec sapien erat, lacinia ac porta in, tincidunt nec magna. Praesent vel est massa. Sed eu aliquet ante. Phasellus vel nibh sit amet ante porttitor rhoncus. Mauris felis sem, tincidunt vel faucibus in, mollis vitae ligula. Duis et quam quis sem bibendum lobortis sit amet et lectus. Pellentesque ut nunc elit&lt;/p&gt;",
+                "featuredImage": "products/printer1_91fa275a-769d-4376-8477-66865aae6796.jpeg",
+                "firstAvailableVariant": {
+                  "available": true,
+                  "barcode": "",
+                  "compareAtPrice": "",
+                  "id": "1046932739",
+                  "image": "",
+                  "inventoryManagement": "",
+                  "inventoryPolicy": "deny",
+                  "inventoryQuantity": "1",
+                  "option1": "Default Title",
+                  "option2": "",
+                  "option3": "",
+                  "price": "1699",
+                  "selected": "false",
+                  "sku": "",
+                  "title": "Default Title",
+                  "url": "/products/gutenberg-6?variant=1046932739",
+                  "weight": "0",
+                  "weightUnit": "kg",
+                  "weightInUnit": "0.0"
+                },
+                "handle": "gutenberg-6",
+                "id": "421965819",
+                "images": [
+
+                    {
+                      "alt": "Gutenberg 6",
+                      "attached_to_variant": "",
+                      "id": "977404367",
+                      "product_id": "421965819",
+                      "position": "1",
+                      "src": "products/printer1_91fa275a-769d-4376-8477-66865aae6796.jpeg",
+                      "variants": ""
+                    }
+
+                ],
+                "optionsSize": "1",
+                "options": [
+
+                    "Title"
+
+                ],
+                "price": "1699",
+                "priceMax": "1699",
+                "priceMin": "1699",
+                "priceVaries": "false",
+                "selectedVariant": "",
+                "selectedOrFirstAvailableVariant": "ProductVariantDrop",
+                "tags": [
+
+                    "BRAND_Gutenberg",
+
+                    "MODEL_Printer",
+
+                    "PRINTER TYPE_Colour",
+
+                    "PRINTER TYPE_Ink"
+
+                ],
+                "templateSuffix": "",
+                "title": "Gutenberg 6",
+                "type": "Printer",
+                "url": "/products/gutenberg-6",
+                "variants": [
+
+                    {
+                      "available": true,
+                      "barcode": "",
+                      "compareAtPrice": "",
+                      "id": "1046932739",
+                      "image": "",
+                      "inventoryManagement": "",
+                      "inventoryPolicy": "deny",
+                      "inventoryQuantity": "1",
+                      "option1": "Default Title",
+                      "option2": "",
+                      "option3": "",
+                      "price": "1699",
+                      "selected": "false",
+                      "sku": "",
+                      "title": "Default Title",
+                      "url": "/products/gutenberg-6?variant=1046932739",
+                      "weight": "0",
+                      "weightUnit": "kg",
+                      "weightInUnit": "0.0"
+                    }
+
+                ],
+                "vendor": "Gutenberg"
+              },
+
+              {
+                "available": true,
+                "compareAtPriceMax": "699",
+                "compareAtPriceMin": "699",
+                "compareAtPriceVaries": "false",
+                "content": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales quam ut nisl accumsan imperdiet. Etiam interdum turpis pharetra nisl aliquet tempor. Quisque dapibus velit vel diam porttitor faucibus. Morbi et nulla ut nisi blandit dictum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam semper, turpis sit amet consectetur consectetur, felis tellus ullamcorper ante, quis varius libero nibh vestibulum est. Praesent sed nunc nibh. Maecenas aliquet est vel diam lobortis egestas. Nullam vitae est urna, vitae facilisis nunc. Mauris nec ante vel quam accumsan venenatis sit amet nec risus. Pellentesque dignissim consectetur quam ut convallis. Praesent pretium viverra justo, eget consequat tortor semper non.&lt;/p&gt;
+
+&lt;p&gt;Sed in metus nec dui consequat vestibulum. In varius pretium nunc, sed bibendum mauris lacinia non. Praesent vel neque ut ligula porttitor vestibulum ac eu erat. Pellentesque quis turpis odio. Etiam auctor laoreet ligula, vel aliquam urna ornare sed. Praesent laoreet diam vitae lectus molestie pulvinar. Nullam blandit, neque id auctor commodo, enim neque ultricies enim, vestibulum euismod lacus enim nec magna. Nullam venenatis tempor accumsan. Aenean a magna eros, laoreet dictum lacus. Phasellus vestibulum dolor commodo odio fringilla pretium. In est elit, malesuada et cursus et, ullamcorper eu leo. Duis fermentum ipsum vel neque interdum id molestie lorem rutrum. Ut nulla enim, venenatis ullamcorper accumsan id, commodo et turpis. Integer dictum pretium ante, eu facilisis metus lacinia in. Pellentesque ullamcorper orci ullamcorper tortor ornare non luctus lorem rhoncus. Suspendisse ornare bibendum dapibus. Vivamus facilisis nunc ac augue elementum vel elementum eros congue. Fusce consectetur, sem quis dictum porta, eros quam dapibus urna, ac tristique nisl odio sed libero. Sed ac fermentum libero.&lt;/p&gt;",
+                "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales quam ut nisl accumsan imperdiet. Etiam interdum turpis pharetra nisl aliquet tempor. Quisque dapibus velit vel diam porttitor faucibus. Morbi et nulla ut nisi blandit dictum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam semper, turpis sit amet consectetur consectetur, felis tellus ullamcorper ante, quis varius libero nibh vestibulum est. Praesent sed nunc nibh. Maecenas aliquet est vel diam lobortis egestas. Nullam vitae est urna, vitae facilisis nunc. Mauris nec ante vel quam accumsan venenatis sit amet nec risus. Pellentesque dignissim consectetur quam ut convallis. Praesent pretium viverra justo, eget consequat tortor semper non.&lt;/p&gt;
+
+&lt;p&gt;Sed in metus nec dui consequat vestibulum. In varius pretium nunc, sed bibendum mauris lacinia non. Praesent vel neque ut ligula porttitor vestibulum ac eu erat. Pellentesque quis turpis odio. Etiam auctor laoreet ligula, vel aliquam urna ornare sed. Praesent laoreet diam vitae lectus molestie pulvinar. Nullam blandit, neque id auctor commodo, enim neque ultricies enim, vestibulum euismod lacus enim nec magna. Nullam venenatis tempor accumsan. Aenean a magna eros, laoreet dictum lacus. Phasellus vestibulum dolor commodo odio fringilla pretium. In est elit, malesuada et cursus et, ullamcorper eu leo. Duis fermentum ipsum vel neque interdum id molestie lorem rutrum. Ut nulla enim, venenatis ullamcorper accumsan id, commodo et turpis. Integer dictum pretium ante, eu facilisis metus lacinia in. Pellentesque ullamcorper orci ullamcorper tortor ornare non luctus lorem rhoncus. Suspendisse ornare bibendum dapibus. Vivamus facilisis nunc ac augue elementum vel elementum eros congue. Fusce consectetur, sem quis dictum porta, eros quam dapibus urna, ac tristique nisl odio sed libero. Sed ac fermentum libero.&lt;/p&gt;",
+                "featuredImage": "products/a_mcssp6_green_series_c616b456-3fab-4ecd-a92e-24a99b086899.jpeg",
+                "firstAvailableVariant": {
+                  "available": true,
+                  "barcode": "",
+                  "compareAtPrice": "",
+                  "id": "1046932647",
+                  "image": "",
+                  "inventoryManagement": "",
+                  "inventoryPolicy": "deny",
+                  "inventoryQuantity": "1",
+                  "option1": "4ft",
+                  "option2": "Red",
+                  "option3": "",
+                  "price": "499",
+                  "selected": "false",
+                  "sku": "",
+                  "title": "4ft / Red",
+                  "url": "/products/intertubes-ethernet-cable?variant=1046932647",
+                  "weight": "0",
+                  "weightUnit": "kg",
+                  "weightInUnit": "0.0"
+                },
+                "handle": "intertubes-ethernet-cable",
+                "id": "421965771",
+                "images": [
+
+                    {
+                      "alt": "Intertubes Ethernet Cable",
+                      "attached_to_variant": "",
+                      "id": "977404207",
+                      "product_id": "421965771",
+                      "position": "1",
+                      "src": "products/a_mcssp6_green_series_c616b456-3fab-4ecd-a92e-24a99b086899.jpeg",
+                      "variants": ""
+                    },
+
+                    {
+                      "alt": "Intertubes Ethernet Cable",
+                      "attached_to_variant": "",
+                      "id": "977404211",
+                      "product_id": "421965771",
+                      "position": "2",
+                      "src": "products/blue_3788a15c-de9c-4fa7-93d2-7af363d5c5dd.jpeg",
+                      "variants": ""
+                    },
+
+                    {
+                      "alt": "Intertubes Ethernet Cable",
+                      "attached_to_variant": "",
+                      "id": "977404215",
+                      "product_id": "421965771",
+                      "position": "3",
+                      "src": "products/red_495be8c4-df7f-4216-89f2-4ab4c4256801.jpeg",
+                      "variants": ""
+                    },
+
+                    {
+                      "alt": "Intertubes Ethernet Cable",
+                      "attached_to_variant": "",
+                      "id": "977404219",
+                      "product_id": "421965771",
+                      "position": "4",
+                      "src": "products/silver_138617fb-7442-43da-a3fd-0e06f52d54b9.jpeg",
+                      "variants": ""
+                    }
+
+                ],
+                "optionsSize": "2",
+                "options": [
+
+                    "Size",
+
+                    "Color"
+
+                ],
+                "price": "499",
+                "priceMax": "599",
+                "priceMin": "499",
+                "priceVaries": "true",
+                "selectedVariant": "",
+                "selectedOrFirstAvailableVariant": "ProductVariantDrop",
+                "tags": [
+
+                    "ACCESSORIES_Cable",
+
+                    "ACCESSORIES_Ethernet"
+
+                ],
+                "templateSuffix": "",
+                "title": "Intertubes Ethernet Cable",
+                "type": "Accessories",
+                "url": "/products/intertubes-ethernet-cable",
+                "variants": [
+
+                    {
+                      "available": true,
+                      "barcode": "",
+                      "compareAtPrice": "",
+                      "id": "1046932647",
+                      "image": "",
+                      "inventoryManagement": "",
+                      "inventoryPolicy": "deny",
+                      "inventoryQuantity": "1",
+                      "option1": "4ft",
+                      "option2": "Red",
+                      "option3": "",
+                      "price": "499",
+                      "selected": "false",
+                      "sku": "",
+                      "title": "4ft / Red",
+                      "url": "/products/intertubes-ethernet-cable?variant=1046932647",
+                      "weight": "0",
+                      "weightUnit": "kg",
+                      "weightInUnit": "0.0"
+                    },
+
+                    {
+                      "available": true,
+                      "barcode": "",
+                      "compareAtPrice": "699",
+                      "id": "1046932651",
+                      "image": "",
+                      "inventoryManagement": "",
+                      "inventoryPolicy": "deny",
+                      "inventoryQuantity": "1",
+                      "option1": "8ft",
+                      "option2": "Red",
+                      "option3": "",
+                      "price": "599",
+                      "selected": "false",
+                      "sku": "",
+                      "title": "8ft / Red",
+                      "url": "/products/intertubes-ethernet-cable?variant=1046932651",
+                      "weight": "0",
+                      "weightUnit": "kg",
+                      "weightInUnit": "0.0"
+                    }
+
+                ],
+                "vendor": "Intertubes"
+              },
+
+              {
+                "available": true,
+                "compareAtPriceMax": "2999",
+                "compareAtPriceMin": "2999",
+                "compareAtPriceVaries": "false",
+                "content": "&lt;p&gt;&lt;span&gt;The 16GB high-speed Sandisk Extreme Plus SDHC CL10 memory card is designed for high-end DSLR digital cameras. It features a speed rating of 200X, offering transfer rates up to 30MB/sec. It lets you get your best shot with speeds over 10 times faster than ordinary memory cards for capacities 16GB - 128GB&lt;/span&gt;X&lt;/p&gt;",
+                "description": "&lt;p&gt;&lt;span&gt;The 16GB high-speed Sandisk Extreme Plus SDHC CL10 memory card is designed for high-end DSLR digital cameras. It features a speed rating of 200X, offering transfer rates up to 30MB/sec. It lets you get your best shot with speeds over 10 times faster than ordinary memory cards for capacities 16GB - 128GB&lt;/span&gt;X&lt;/p&gt;",
+                "featuredImage": "products/10262057_2b54c49e-ed31-48ae-b7ef-3c354dfc95ad.jpeg",
+                "firstAvailableVariant": {
+                  "available": true,
+                  "barcode": "",
+                  "compareAtPrice": "2999",
+                  "id": "1046932123",
+                  "image": "",
+                  "inventoryManagement": "shopify",
+                  "inventoryPolicy": "deny",
+                  "inventoryQuantity": "230",
+                  "option1": "Default Title",
+                  "option2": "",
+                  "option3": "",
+                  "price": "1999",
+                  "selected": "false",
+                  "sku": "fd45f4d5fd",
+                  "title": "Default Title",
+                  "url": "/products/sandisk-extreme-plus-16gb-80mb-s-sdhc-class-10-uhs-i-memory-card?variant=1046932123",
+                  "weight": "0",
+                  "weightUnit": "kg",
+                  "weightInUnit": "0.0"
+                },
+                "handle": "sandisk-extreme-plus-16gb-80mb-s-sdhc-class-10-uhs-i-memory-card",
+                "id": "421965675",
+                "images": [
+
+                    {
+                      "alt": "SanDisk Extreme Plus 16GB 80MB/s SDHC Class 10 UHS-I Memory Card",
+                      "attached_to_variant": "",
+                      "id": "977403879",
+                      "product_id": "421965675",
+                      "position": "1",
+                      "src": "products/10262057_2b54c49e-ed31-48ae-b7ef-3c354dfc95ad.jpeg",
+                      "variants": ""
+                    }
+
+                ],
+                "optionsSize": "1",
+                "options": [
+
+                    "Title"
+
+                ],
+                "price": "1999",
+                "priceMax": "1999",
+                "priceMin": "1999",
+                "priceVaries": "false",
+                "selectedVariant": "",
+                "selectedOrFirstAvailableVariant": "ProductVariantDrop",
+                "tags": [
+
+                ],
+                "templateSuffix": "",
+                "title": "SanDisk Extreme Plus 16GB 80MB/s SDHC Class 10 UHS-I Memory Card",
+                "type": "Accessories",
+                "url": "/products/sandisk-extreme-plus-16gb-80mb-s-sdhc-class-10-uhs-i-memory-card",
+                "variants": [
+
+                    {
+                      "available": true,
+                      "barcode": "",
+                      "compareAtPrice": "2999",
+                      "id": "1046932123",
+                      "image": "",
+                      "inventoryManagement": "shopify",
+                      "inventoryPolicy": "deny",
+                      "inventoryQuantity": "230",
+                      "option1": "Default Title",
+                      "option2": "",
+                      "option3": "",
+                      "price": "1999",
+                      "selected": "false",
+                      "sku": "fd45f4d5fd",
+                      "title": "Default Title",
+                      "url": "/products/sandisk-extreme-plus-16gb-80mb-s-sdhc-class-10-uhs-i-memory-card?variant=1046932123",
+                      "weight": "0",
+                      "weightUnit": "kg",
+                      "weightInUnit": "0.0"
+                    }
+
+                ],
+                "vendor": "SanDisk"
+              },
+
+              {
+                "available": true,
+                "compareAtPriceMax": "0",
+                "compareAtPriceMin": "0",
+                "compareAtPriceVaries": "false",
+                "content": "",
+                "description": "",
+                "featuredImage": "",
+                "firstAvailableVariant": {
+                  "available": true,
+                  "barcode": "",
+                  "compareAtPrice": "",
+                  "id": "902526063",
+                  "image": "",
+                  "inventoryManagement": "shopify",
+                  "inventoryPolicy": "deny",
+                  "inventoryQuantity": "6",
+                  "option1": "Default Title",
+                  "option2": "",
+                  "option3": "",
+                  "price": "1200",
+                  "selected": "false",
+                  "sku": "",
+                  "title": "Default Title",
+                  "url": "/products/test?variant=902526063",
+                  "weight": "0",
+                  "weightUnit": "kg",
+                  "weightInUnit": "0.0"
+                },
+                "handle": "test",
+                "id": "385415391",
+                "images": [
+
+                ],
+                "optionsSize": "1",
+                "options": [
+
+                    "Title"
+
+                ],
+                "price": "1200",
+                "priceMax": "1200",
+                "priceMin": "1200",
+                "priceVaries": "false",
+                "selectedVariant": "",
+                "selectedOrFirstAvailableVariant": "ProductVariantDrop",
+                "tags": [
+
+                ],
+                "templateSuffix": "",
+                "title": "TEst",
+                "type": "shirt",
+                "url": "/products/test",
+                "variants": [
+
+                    {
+                      "available": true,
+                      "barcode": "",
+                      "compareAtPrice": "",
+                      "id": "902526063",
+                      "image": "",
+                      "inventoryManagement": "shopify",
+                      "inventoryPolicy": "deny",
+                      "inventoryQuantity": "6",
+                      "option1": "Default Title",
+                      "option2": "",
+                      "option3": "",
+                      "price": "1200",
+                      "selected": "false",
+                      "sku": "",
+                      "title": "Default Title",
+                      "url": "/products/test?variant=902526063",
+                      "weight": "0",
+                      "weightUnit": "kg",
+                      "weightInUnit": "0.0"
+                    }
+
+                ],
+                "vendor": "me"
+              }
+
+          ],
+          "productsCount": 4,
+          "title": "Test 2",
+          "tags": "ACCESSORIES_CableACCESSORIES_EthernetBRAND_GutenbergMODEL_PrinterPRINTER TYPE_ColourPRINTER TYPE_Ink",
+          "url": "/collections/test-2"
+        }
+
+    ],
+    "compareAtPriceMax": "0",
+    "compareAtPriceMin": "0",
+    "compareAtPriceVaries": "false",
+    "content": "&lt;p&gt;Donec eu augue felis. Etiam libero nunc, euismod ultricies consequat at, elementum eget erat. Ha! Ha! Ha!&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Donec sapien erat, lacinia ac porta in, tincidunt nec magna. Praesent vel est massa. Sed eu aliquet ante. Phasellus vel nibh sit amet ante porttitor rhoncus. Mauris felis sem, tincidunt vel faucibus in, mollis vitae ligula. Duis et quam quis sem bibendum lobortis sit amet et lectus. Pellentesque ut nunc elit&lt;/p&gt;",
+    "description": "&lt;p&gt;Donec eu augue felis. Etiam libero nunc, euismod ultricies consequat at, elementum eget erat. Ha! Ha! Ha!&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Donec sapien erat, lacinia ac porta in, tincidunt nec magna. Praesent vel est massa. Sed eu aliquet ante. Phasellus vel nibh sit amet ante porttitor rhoncus. Mauris felis sem, tincidunt vel faucibus in, mollis vitae ligula. Duis et quam quis sem bibendum lobortis sit amet et lectus. Pellentesque ut nunc elit&lt;/p&gt;",
+    "featuredImage": "products/printer1_91fa275a-769d-4376-8477-66865aae6796.jpeg",
+    "firstAvailableVariant": {
+      "available": true,
+      "barcode": "",
+      "compareAtPrice": "",
+      "id": "1046932739",
+      "image": "",
+      "inventoryManagement": "",
+      "inventoryPolicy": "deny",
+      "inventoryQuantity": "1",
+      "option1": "Default Title",
+      "option2": "",
+      "option3": "",
+      "price": "1699",
+      "selected": "false",
+      "sku": "",
+      "title": "Default Title",
+      "url": "/products/gutenberg-6?variant=1046932739",
+      "weight": "0",
+      "weightUnit": "kg",
+      "weightInUnit": "0.0"
+    },
+    "handle": "gutenberg-6",
+    "id": "421965819",
+    "images": [
+
+        {
+          "alt": "Gutenberg 6",
+          "attached_to_variant": "",
+          "id": "977404367",
+          "product_id": "421965819",
+          "position": "1",
+          "src": "products/printer1_91fa275a-769d-4376-8477-66865aae6796.jpeg",
+          "variants": ""
+        }
+
+    ],
+    "optionsSize": "1",
+    "options": [
+
+        "Title"
+
+    ],
+    "price": "1699",
+    "priceMax": "1699",
+    "priceMin": "1699",
+    "priceVaries": "false",
+    "selectedVariant": "",
+    "selectedOrFirstAvailableVariant": "ProductVariantDrop",
+    "tags": [
+
+        "BRAND_Gutenberg",
+
+        "MODEL_Printer",
+
+        "PRINTER TYPE_Colour",
+
+        "PRINTER TYPE_Ink"
+
+    ],
+    "templateSuffix": "",
+    "title": "Gutenberg 6",
+    "type": "Printer",
+    "url": "/products/gutenberg-6",
+    "variants": [
+
+        {
+          "available": true,
+          "barcode": "",
+          "compareAtPrice": "",
+          "id": "1046932739",
+          "image": "",
+          "inventoryManagement": "",
+          "inventoryPolicy": "deny",
+          "inventoryQuantity": "1",
+          "option1": "Default Title",
+          "option2": "",
+          "option3": "",
+          "price": "1699",
+          "selected": "false",
+          "sku": "",
+          "title": "Default Title",
+          "url": "/products/gutenberg-6?variant=1046932739",
+          "weight": "0",
+          "weightUnit": "kg",
+          "weightInUnit": "0.0"
+        }
+
+    ],
+    "vendor": "Gutenberg"
+  }
+}
